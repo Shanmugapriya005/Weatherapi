@@ -40,4 +40,5 @@ This REST API client serves as a foundation for building more advanced applicati
 
 Overall, this project effectively demonstrates the end-to-end flow of data from a public web service to a Java console application, making it an ideal academic assignment for understanding REST API consumption and JSON parsing in Java.
 
-#OUTPUT:
+#OUTPUT:<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/923c3d69-1f5d-4cdc-9118-0fc1b98afa3c" />
+
